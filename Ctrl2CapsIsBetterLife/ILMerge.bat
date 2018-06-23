@@ -1,0 +1,1 @@
+..\packages\ILMerge.2.14.1208\tools\ILMerge.exe /ndebug /wildcards /out:Ctrl2CapsIsBetterLife.exe bin\Release\Ctrl2CapsIsBetterLife.exe bin\Release\*.dll /targetplatform:v4,"C:\Windows\Microsoft.NET\Framework\v4.0.30319" 
